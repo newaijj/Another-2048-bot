@@ -1,0 +1,9 @@
+
+- Heuristic that encourages snaking 
+- Efficient evaluation of state values
+    - Memoise if possible
+
+
+Done:
+- Chance nodes (and state updates)
+    - Average evaluation of chance node's children in Search
